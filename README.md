@@ -1,8 +1,8 @@
-# Mini Vanilla JS App - Autocomplete Searching ⌨️
+# Mini Vanilla JS API - Autocomplete Searching ⌨️
 
-## [View Application Here]()
+## [View Application Here](https://js-autocomplete-typing-api.netlify.com/?_ga=2.185454624.829762167.1573182228-394698580.1567312295)
 
-![Autocomplete Typing Gif]( "Autocomplete Typing Gif")
+![Autocomplete Typing Gif](https://github.com/chrisstaudinger/JS-Autocomplete-Typing-API/blob/master/assets/images/app.gif?raw=true "Autocomplete Typing Gif")
 
 ### Tech Stack
 
